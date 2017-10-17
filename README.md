@@ -4,6 +4,8 @@ Distributed Tensorflow Example
 
 # Example 
 
+The full explanation is [here](http://andersonjo.github.io/tensorflow/2017/10/17/Distributed-TensorFlow/)
+
 ## Configuration
 configure "config.json" file before running codes. <br>
 The example requires at least two remote servers and each remote server has its own GPU. <br>
